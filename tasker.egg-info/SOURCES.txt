@@ -1,0 +1,8 @@
+README.md
+setup.py
+task_manager.py
+tasker.egg-info/PKG-INFO
+tasker.egg-info/SOURCES.txt
+tasker.egg-info/dependency_links.txt
+tasker.egg-info/entry_points.txt
+tasker.egg-info/top_level.txt

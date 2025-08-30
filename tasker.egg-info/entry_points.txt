@@ -1,0 +1,2 @@
+[console_scripts]
+tasker = task_manager:main
