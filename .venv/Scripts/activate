@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Documentos - Google Drive\Cursos\MBA UFSCar MLP 2025\Módulo Engenharia de Software para o Big Data\Teste de Software para Sistemas que usam IA\Atividade 1\todo-tracker-cli\.venv"
+VIRTUAL_ENV="D:\Documentos - Google Drive\Cursos\MBA UFSCar MLP 2025\Módulo ESBD\Teste de Software para Sistemas que usam IA\Atividade 1\todo-tracker-cli\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
