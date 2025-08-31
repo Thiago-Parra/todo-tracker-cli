@@ -1,0 +1,2 @@
+[run]
+omit=test_tracker.py,setup.py,test_tracker_thiago.py
